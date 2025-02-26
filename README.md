@@ -6,4 +6,26 @@ Cuando finalizé con las pages, fui a instalarme un plugin para poder editar la 
 
 Seguidamente después de instalar plugins, lo que hice fue irme al apartado de Temas y elejí uno adecuado para mi página web con apartados para mis zapatillas con sus precios orrespondientes y otro para las explicaciones sobre el crecimiento de CI STORE y sus ideas.
 
-Por último despues de elegir el tema, ví que todo quedara lo mejor posible para que fuera bonita visualmente y entendible para el que la vea.
+Despues de elegir el tema, ví que todo quedara lo mejor posible para que fuera bonita visualmente y entendible para el que la vea.
+
+Luego seguidamente despues de la elección de temas lo que hice fue instalar otro plugin mas que me hizo falta para poner varios anuncios dentro de mi web y el plugin que utilize fue el siguiente.
+
+  - add interpreter
+  - sirve para poner anuncios en diferentes zonas de la web, en diferentes bloques a elección.
+  - crear un post para cada anuncio que ponga
+  - situar el anuncio
+
+Después de poner los anuncios en mi web finalmente lo que hize fue añadir varios posts como los siguientes:
+
+- ubicacion en maps de mi tienda
+- nuestra tienda por dentro
+- varios tipos de zapatillas
+
+Y finalmente como último paso en mi web he instalado un hosting para poder subir mi web
+
+## HOSTING UTILIZADO
+- INFINITYFREE
+el cual he tenido que configurar y después de hacerlo todo correctamente dentro de la terminal he tenido que poner 2 comandos.
+- mysqldump --no-tablespaces -u usuario -p bbdd
+- salida.sql
+después de ello cambiar las URL de la base de datos por la nueva y con eso ya estaría todo finalizado y subido al HOSTING.
