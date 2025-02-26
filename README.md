@@ -28,4 +28,5 @@ Y finalmente como último paso en mi web he instalado un hosting para poder subi
 el cual he tenido que configurar y después de hacerlo todo correctamente dentro de la terminal he tenido que poner 2 comandos.
 - mysqldump --no-tablespaces -u usuario -p bbdd
 - salida.sql
+  
 después de ello cambiar las URL de la base de datos por la nueva y con eso ya estaría todo finalizado y subido al HOSTING.
